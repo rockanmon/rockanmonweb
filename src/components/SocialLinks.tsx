@@ -70,22 +70,22 @@ function XIcon() {
 
 const socialLinks: SocialLink[] = [
   {
-    href: 'https://instagram.com/TU_USUARIO',
+    href: 'https://www.instagram.com/rockanmon/',
     label: 'Instagram',
     icon: <InstagramIcon />,
   },
   {
-    href: 'https://tiktok.com/@TU_USUARIO',
+    href: 'https://www.tiktok.com/@rockanmon',
     label: 'TikTok',
     icon: <TikTokIcon />,
   },
   {
-    href: 'https://facebook.com/TU_USUARIO',
+    href: 'https://www.facebook.com/rockanmon',
     label: 'Facebook',
     icon: <FacebookIcon />,
   },
   {
-    href: 'https://x.com/TU_USUARIO',
+    href: 'https://x.com/rockanmon',
     label: 'X',
     icon: <XIcon />,
   },
