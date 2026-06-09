@@ -38,9 +38,9 @@ export default function HeroSection() {
         </figure>
 
         <p className="mt-12 max-w-content text-base leading-relaxed text-foreground sm:text-lg sm:leading-8">
-          Soy Ramón. Me apasiona la tecnología, la música y los videojuegos.
-          Estoy aquí para construir cosas que me emocionen y compartirlas con
-          el mundo. Apenas empiezo, pero voy en serio.
+          Soy Ramón, me apasiona la tecnología, la música,los  deportes y los videojuegos. <br />
+          Estoy aquí para construir o crear cosas que me emocionen y compartirlas con
+          el mundo. <br /> Apenas empiezo, pero voy en serio.
         </p>
 
         <div className="mt-12 border-t border-border pt-12">
